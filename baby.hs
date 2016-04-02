@@ -1,7 +1,7 @@
 y :: Int
 y = y + 1
 
-doubleMe x = x + x 
+doubleMe x = x + x
 
 doubleUs x y = x*2 + y*2
 
